@@ -1,2 +1,3 @@
 .pyc
 .csv
+max-line-length=88
